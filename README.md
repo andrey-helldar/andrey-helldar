@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 > Looking for interesting and useful solutions?
 >
