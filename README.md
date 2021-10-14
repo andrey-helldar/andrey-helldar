@@ -13,4 +13,4 @@ These lists are by no means exhaustive!
 
 **If you use any of my packages, please consider sponsoring me!**
 
-<a href="https://patreon.com/andrey_helldar"><img alt="patreon" src="/.github/images/patreon.png"></a>
+<a href="https://patreon.com/andrey_helldar" target="_blank"><img alt="patreon" src="/.github/images/patreon.png"></a>
