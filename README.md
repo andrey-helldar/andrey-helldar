@@ -1,6 +1,15 @@
 ## What have I been up to recently?
 
-I am the maintainer of the following popular repositories and organisations:
+I am the maintainer of the following repositories and organisations:
+
+* [Laravel Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
+* [Laravel Migrate DB](https://github.com/andrey-helldar/migrate-db)
+* [Laravel Actions](https://github.com/andrey-helldar/laravel-actions)
+* [Laravel Pretty Routes](https://github.com/andrey-helldar/pretty-routes)
+* [Env Sync](https://github.com/andrey-helldar/env-sync)
+* [Package Wizard](https://github.com/andrey-helldar/package-wizard)
+
+I have also been actively contributing to:
 
 * [Laravel Lang](https://github.com/Laravel-Lang/lang)
 * [Laravel Deployer](https://github.com/lorisleiva/laravel-deployer)
