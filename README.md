@@ -8,6 +8,7 @@ I am the maintainer of the following repositories and organisations:
 * [Laravel Pretty Routes](https://github.com/andrey-helldar/pretty-routes)
 * [Env Sync](https://github.com/andrey-helldar/env-sync)
 * [Package Wizard](https://github.com/andrey-helldar/package-wizard)
+* [Laraberries](https://github.com/Laraberries)
 
 I have also been actively contributing to:
 
