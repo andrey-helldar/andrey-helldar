@@ -3,7 +3,7 @@
 I am the maintainer of the following repositories and organisations:
 
 * [The Dragon Code](https://github.com/TheDragonCode)
-* [Laravel Cashier Provider](https://github.com/LaravelCashierProvider)
+* [Laravel Cashier Provider](https://github.com/cashier-provider)
 * [Laravel Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
 * [Laravel Migrate DB](https://github.com/andrey-helldar/migrate-db)
 * [Laravel Actions](https://github.com/andrey-helldar/laravel-actions)
