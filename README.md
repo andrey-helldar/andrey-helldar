@@ -4,12 +4,12 @@ I am the maintainer of the following repositories and organisations:
 
 * [The Dragon Code](https://github.com/TheDragonCode)
 * [Laravel Cashier Provider](https://github.com/cashier-provider)
-* [Laravel Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
+* [Laravel Lang Publisher](https://github.com/Laravel-Lang/laravel-lang-publisher)
 * [Laravel Migrate DB](https://github.com/TheDragonCode/migrate-db)
 * [Laravel Actions](https://github.com/TheDragonCode/laravel-actions)
 * [Laravel Pretty Routes](https://github.com/TheDragonCode/pretty-routes)
 * [Env Sync](https://github.com/TheDragonCode/env-sync-laravel)
-* [Package Wizard](https://github.com/andrey-helldar/package-wizard)
+* [Package Wizard](https://github.com/package-wizard)
 * [Laraberries](https://github.com/Laraberries)
 
 I have also been actively contributing to:
