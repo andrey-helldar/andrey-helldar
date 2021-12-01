@@ -4,7 +4,7 @@ I am the maintainer of the following repositories and organisations:
 
 * [The Dragon Code](https://github.com/TheDragonCode)
 * [Laravel Cashier Provider](https://github.com/cashier-provider)
-* [Laravel Lang Publisher](https://github.com/Laravel-Lang/laravel-lang-publisher)
+* [Laravel Lang Publisher](https://github.com/Laravel-Lang/publisher)
 * [Laravel Migrate DB](https://github.com/TheDragonCode/migrate-db)
 * [Laravel Actions](https://github.com/TheDragonCode/laravel-actions)
 * [Laravel Pretty Routes](https://github.com/TheDragonCode/pretty-routes)
