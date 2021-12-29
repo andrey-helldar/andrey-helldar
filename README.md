@@ -15,7 +15,6 @@ I am the maintainer of the following repositories and organisations:
 I have also been actively contributing to:
 
 * [Laravel Lang](https://github.com/Laravel-Lang/lang)
-* [Laravel Deployer](https://github.com/lorisleiva/laravel-deployer)
 
 These lists are by no means exhaustive!
 
