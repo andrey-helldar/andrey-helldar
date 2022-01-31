@@ -14,7 +14,7 @@ I am the maintainer of the following repositories and organisations:
 
 I have also been actively contributing to:
 
-* [Laravel Lang](https://github.com/Laravel-Lang/lang)
+* [Laravel Lang](https://github.com/Laravel-Lang)
 
 These lists are by no means exhaustive!
 
