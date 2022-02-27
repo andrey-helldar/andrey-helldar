@@ -1,3 +1,5 @@
+![NO WAR](https://user-images.githubusercontent.com/10347617/155891607-70d7c55f-dc06-457a-bf2a-70244ed481ec.png)
+
 ## What have I been up to recently?
 
 I am the maintainer of the following repositories and organisations:
