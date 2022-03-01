@@ -7,6 +7,8 @@
 > My access may be blocked and I do not know what will happen to the created repositories.
 >
 > Peace for everyone. No War!
+>
+> Best Regards, Andrey Helldar
 
 ## What have I been up to recently?
 
