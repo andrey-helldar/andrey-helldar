@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/10347617/156670394-5339057f-f961-4df5-aac4-638a1beece36.png)
+
+
 ## What have I been up to recently?
 
 I am the maintainer of the following repositories and organisations:
