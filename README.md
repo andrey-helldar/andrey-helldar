@@ -1,15 +1,3 @@
-![NO WAR](https://user-images.githubusercontent.com/10347617/155891607-70d7c55f-dc06-457a-bf2a-70244ed481ec.png)
-
-> ATTENTION!
->
-> In the course of recent events between Russia and Ukraine, unconfirmed information has appeared that Microsoft, which owns GitHub, is considering cutting off Russian developers from its resources.
->
-> My access may be blocked and I do not know what will happen to the created repositories.
->
-> Peace for everyone. No War!
->
-> Best Regards, Andrey Helldar
-
 ## What have I been up to recently?
 
 I am the maintainer of the following repositories and organisations:
