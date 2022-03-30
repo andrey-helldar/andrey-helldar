@@ -38,6 +38,7 @@ class About extends Me
             MySQL::class,
             Redis::class,
             ElasticSearch::class,
+            RestfulApi::class,
             VueJs::class,
             Git::class,
             Jira::class,
