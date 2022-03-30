@@ -38,8 +38,10 @@ class About extends Me
             MySQL::class,
             Redis::class,
             ElasticSearch::class,
-            Git::class,
             VueJs::class,
+            Git::class,
+            Jira::class,
+            GitLab::class,
         ];
     }
 
