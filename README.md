@@ -1,30 +1,63 @@
 ![image](https://user-images.githubusercontent.com/10347617/156670640-98d1e018-4f21-4293-984b-5ec1a85fbc30.png)
 
 
-## What have I been up to recently?
+```php
+<?php
 
-I am the maintainer of the following repositories and organisations:
+namespace AndreyHelldar;
 
-* [The Dragon Code](https://github.com/TheDragonCode)
-* [Laravel Cashier Provider](https://github.com/cashier-provider)
-* [Laravel Lang Publisher](https://github.com/Laravel-Lang/publisher)
-* [Laravel Migrate DB](https://github.com/TheDragonCode/migrate-db)
-* [Laravel Migration Actions](https://github.com/TheDragonCode/laravel-migration-actions)
-* [Laravel Pretty Routes](https://github.com/TheDragonCode/pretty-routes)
-* [Env Sync](https://github.com/TheDragonCode/env-sync-laravel)
-* [Package Wizard](https://github.com/package-wizard)
-* [Laraberries](https://github.com/Laraberries)
+use Illuminate\Support\Collection;
 
-I have also been actively contributing to:
+class About extends Me
+{
+    public function getProjects(): Collection
+    {
+        return collect([
+            ['The Dragon Code', 'https://github.com/TheDragonCode'],
+            ['Laravel Lang',    'https://github.com/Laravel-Lang'],
 
-* [Laravel Lang](https://github.com/Laravel-Lang)
+            ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
+            ['Laravel Env Sync',          'https://github.com/TheDragonCode/env-sync-laravel'],
+            ['Laravel Lang Publisher',    'https://github.com/Laravel-Lang/publisher'],
+            ['Laravel Migrate DB',        'https://github.com/TheDragonCode/migrate-db'],
+            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
+            ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
 
-These lists are by no means exhaustive!
+            ['Package Wizard', 'https://github.com/package-wizard'],
+            ['Laraberries',    'https://github.com/Laraberries'],
+        ])->mapInto(Project::class);
+    }
 
-**Any questions, or want to get involved, please get in touch. 🐘**
+    /** @return Knowledge[] */
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Docker::class,
+            MySQL::class,
+            Redis::class,
+            ElasticSearch::class,
+            Git::class,
+            VueJs::class,
+        ];
+    }
 
-## Sponsor my work
+    public function getProfiles(): array
+    {
+        return [
+            'Website'    => 'https://dragon-code.pro',
+            'HabrCareer' => 'https://career.habr.com/helldar',
+        ];
+    }
 
-**If you use any of my packages, please consider sponsoring me!**
-
-<a href="https://patreon.com/andrey_helldar" target="_blank"><img alt="patreon" src="/.github/images/patreon.png"></a>
+    public function getSponsor(): array
+    {
+        return [
+            'https://github.com/sponsors/TheDragonCode',
+            'https://www.patreon.com/andrey_helldar',
+            'https://yoomoney.ru/to/410012608840929',
+        ];
+    }
+}
+```
