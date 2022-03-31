@@ -54,6 +54,14 @@ class About extends Me
         ];
     }
 
+    public function getContancts(): array
+    {
+        return [
+            'Email'    => 'helldar@dragon-code.pro',
+            'Telegram' => 'https://t.me/Helldar'
+        ];
+    }
+
     public function getSponsor(): array
     {
         return [
