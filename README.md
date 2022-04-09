@@ -5,10 +5,9 @@
 
 namespace AndreyHelldar;
 
-use Illuminate\Support\Collection;
-
 class About extends Me
 {
+    /** @return Collection|Project[] */
     public function getProjects(): Collection
     {
         return collect([
