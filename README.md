@@ -64,7 +64,6 @@ class About extends Me
     {
         return [
             'https://github.com/sponsors/TheDragonCode',
-            'https://www.patreon.com/andrey_helldar',
             'https://yoomoney.ru/to/410012608840929',
         ];
     }
