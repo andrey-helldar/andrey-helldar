@@ -53,7 +53,7 @@ class About extends Me
         ];
     }
 
-    public function getContancts(): array
+    public function getContacts(): array
     {
         return [
             'Email'    => 'helldar@dragon-code.pro',
