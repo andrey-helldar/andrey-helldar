@@ -15,12 +15,12 @@ class About extends Me
             ['The Dragon Code', 'https://github.com/TheDragonCode'],
             ['Laravel Lang',    'https://github.com/Laravel-Lang'],
 
+            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
             ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
-            ['Laravel Env Sync',          'https://github.com/TheDragonCode/env-sync-laravel'],
+            ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
             ['Laravel Lang Publisher',    'https://github.com/Laravel-Lang/publisher'],
             ['Laravel Migrate DB',        'https://github.com/TheDragonCode/migrate-db'],
-            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
-            ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
+            ['Laravel Env Sync',          'https://github.com/TheDragonCode/env-sync-laravel'],
 
             ['Package Wizard', 'https://github.com/package-wizard'],
             ['Laraberries',    'https://github.com/Laraberries'],
