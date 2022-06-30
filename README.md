@@ -50,6 +50,7 @@ class About extends Me
         return [
             'Website'    => 'https://dragon-code.pro',
             'HabrCareer' => 'https://career.habr.com/helldar',
+            'LinkedIn'   => 'https://www.linkedin.com/in/helldar',
         ];
     }
 
