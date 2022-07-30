@@ -31,8 +31,8 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
             Laravel::class,
+            Php::class,
             Docker::class,
             MySQL::class,
             Redis::class,
