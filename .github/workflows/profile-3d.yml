@@ -3,6 +3,8 @@ name: "3D Profile"
 on:
     schedule:
         -   cron: 0 0 * * *
+    push:
+        branches: [ main ]
     workflow_dispatch:
 
 jobs:
