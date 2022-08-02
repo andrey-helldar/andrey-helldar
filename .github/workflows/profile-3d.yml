@@ -35,7 +35,7 @@ jobs:
                 run: |
                     IS_DIRTY=1
                     
-                    { git add . && git commit -a -m "📊 3D profile generated"; } || IS_DIRTY=0
+                    { git add ./profile-3d-contrib/profile-south-season-animate.svg && git commit -a -m "📊 3D profile generated"; } || IS_DIRTY=0
                     
                     echo ::set-output name=is_dirty::${IS_DIRTY}
 
