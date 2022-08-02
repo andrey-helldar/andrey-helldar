@@ -1,0 +1,44 @@
+name: "3D Profile"
+
+on:
+    schedule:
+        -   cron: 0 0 * * *
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        name: generate-github-profile-3d-contrib
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v3
+
+            -   name: Git setup
+                if: success()
+                run: |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
+
+            -   name: Generate 3D profile
+                uses: yoshi389111/github-profile-3d-contrib@0.6.0
+                env:
+                    GITHUB_TOKEN: ${{ secrets.COMPOSER_TOKEN }}
+                    USERNAME: ${{ github.repository_owner }}
+
+            -   name: Store changes
+                id: store
+                if: success()
+                run: |
+                    IS_DIRTY=1
+                    
+                    { git add . && git commit -a -m "📊 3D profile generated"; } || IS_DIRTY=0
+                    
+                    echo ::set-output name=is_dirty::${IS_DIRTY}
+
+            -   name: Push changes
+                uses: ad-m/github-push-action@master
+                if: success() && steps.store.outputs.is_dirty == 1
+                with:
+                    github_token: ${{ secrets.COMPOSER_TOKEN }}
