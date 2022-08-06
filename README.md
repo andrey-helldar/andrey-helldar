@@ -1,5 +1,4 @@
-![won't talk - don't wanna lie](https://user-images.githubusercontent.com/10347617/163692044-d059e2f8-0137-427b-a5e4-7f6864167e9a.png)
-
+![peace](https://user-images.githubusercontent.com/10347617/183268386-c25ec9ae-6af9-4855-97fb-7ef29f54015d.png)
 
 ```php
 <?php
@@ -8,7 +7,6 @@ namespace AndreyHelldar;
 
 class About extends Me
 {
-    /** @return Collection|Project[] */
     public function getProjects(): Collection
     {
         return collect([
@@ -27,7 +25,6 @@ class About extends Me
         ])->mapInto(Project::class);
     }
 
-    /** @return Knowledge[] */
     public function getDailyKnowledge(): array
     {
         return [
