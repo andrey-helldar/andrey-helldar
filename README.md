@@ -12,6 +12,7 @@ class About extends Me
         return collect([
             ['The Dragon Code', 'https://github.com/TheDragonCode'],
             ['Laravel Lang',    'https://github.com/Laravel-Lang'],
+            ['Volunteers CRM',  'https://github.com/volunteers-crm'],
 
             ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
             ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
@@ -64,6 +65,7 @@ class About extends Me
         return [
             'https://github.com/sponsors/TheDragonCode',
             'https://yoomoney.ru/to/410012608840929',
+            'https://boosty.to/dragon-code',
         ];
     }
 }
