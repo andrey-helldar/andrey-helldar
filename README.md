@@ -7,6 +7,7 @@ namespace AndreyHelldar;
 
 class About extends Me
 {
+    /** @return Collection<Project> */
     public function getProjects(): Collection
     {
         return collect([
@@ -43,21 +44,23 @@ class About extends Me
         ];
     }
 
-    public function getProfiles(): array
+    /** @return Collection<Profile> */
+    public function getProfiles(): Collection
     {
-        return [
+        return collect([
             'Website'    => 'https://dragon-code.pro',
             'HabrCareer' => 'https://career.habr.com/helldar',
             'LinkedIn'   => 'https://www.linkedin.com/in/helldar',
-        ];
+        ])->mapInto(Profile::class);
     }
 
+    /** @return Collection<Contact> */
     public function getContacts(): array
     {
-        return [
+        return collect([
             'Email'    => 'helldar@dragon-code.pro',
-            'Telegram' => 'https://t.me/Helldar'
-        ];
+            'Telegram' => 'https://t.me/Helldar',
+        ])->mapInto(Contact::class);
     }
 
     public function getSponsor(): array
