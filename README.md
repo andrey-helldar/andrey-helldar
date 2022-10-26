@@ -7,23 +7,35 @@ namespace AndreyHelldar;
 
 class About extends Me
 {
-    /** @return Collection<Project> */
-    public function getProjects(): Collection
+    /** @return Collection<Organization> */
+    public function getOrganizations(): Collection
     {
         return collect([
-            ['The Dragon Code', 'https://github.com/TheDragonCode'],
-            ['Laravel Lang',    'https://github.com/Laravel-Lang'],
-            ['Volunteers CRM',  'https://github.com/volunteers-crm'],
-
-            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
+            ['The Dragon Code',           'https://github.com/TheDragonCode'],
+            ['Laravel Lang',              'https://github.com/Laravel-Lang'],
+            ['Volunteers CRM',            'https://github.com/volunteers-crm'],
             ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
-            ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
-            ['Laravel Lang Publisher',    'https://github.com/Laravel-Lang/publisher'],
-            ['Laravel Migrate DB',        'https://github.com/TheDragonCode/migrate-db'],
-            ['Laravel Env Sync',          'https://github.com/TheDragonCode/env-sync-laravel'],
+            ['Package Wizard',            'https://github.com/package-wizard'],
+            ['Laraberries',               'https://github.com/Laraberries'],
+        ])->mapInto(Organization::class);
+    }
 
-            ['Package Wizard', 'https://github.com/package-wizard'],
-            ['Laraberries',    'https://github.com/Laraberries'],
+    /** @return Collection<Project> */
+    public function getTheBestProjects(): Collection
+    {
+        return collect([
+            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
+            ['Laravel Migrate DB',        'https://github.com/TheDragonCode/migrate-db'],
+            ['Laravel Lang Publisher',    'https://github.com/Laravel-Lang/publisher'],
+            ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
+            ['Laravel Env Sync',          'https://github.com/TheDragonCode/env-sync-laravel'],
+            ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
+            ['Laravel HTTP Logger',       'https://github.com/TheDragonCode/laravel-http-logger'],
+            ['Laravel JSON Response',     'https://github.com/TheDragonCode/laravel-json-response'],
+            ['Laravel Cache',             'https://github.com/TheDragonCode/laravel-cache'],
+            ['Simple DTO',                'https://github.com/TheDragonCode/simple-data-transfer-object'],
+            ['Which Color',               'https://github.com/TheDragonCode/which-color'],
+            // ...
         ])->mapInto(Project::class);
     }
 
