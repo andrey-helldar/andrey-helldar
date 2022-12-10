@@ -5,6 +5,10 @@
 
 namespace AndreyHelldar;
 
+/*
+ * Always write code like it’s going to be supported by an unstable,
+ * violent psychopath who knows where you live.
+ */
 class About extends Me
 {
     /** @return Collection<Organization> */
