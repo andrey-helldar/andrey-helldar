@@ -88,6 +88,11 @@ class About extends Me
             'https://boosty.to/dragon-code',
         ];
     }
+
+    public function label(): string
+    {
+        return 'White snow and blue river';
+    }
 }
 ```
 
