@@ -16,12 +16,12 @@ class About extends Me
     public function getOrganizations(): Collection
     {
         return collect([
-            ['The Dragon Code',           'https://github.com/TheDragonCode'],
-            ['Laravel Lang',              'https://github.com/Laravel-Lang'],
-            ['Volunteers CRM',            'https://github.com/volunteers-crm'],
-            ['Laravel Cashier Provider',  'https://github.com/cashier-provider'],
-            ['Package Wizard',            'https://github.com/package-wizard'],
-            ['Laraberries',               'https://github.com/Laraberries'],
+            ['The Dragon Code',          'https://github.com/TheDragonCode'],
+            ['Laravel Lang',             'https://github.com/Laravel-Lang'],
+            ['Volunteers CRM',           'https://github.com/volunteers-crm'],
+            ['Laravel Cashier Provider', 'https://github.com/cashier-provider'],
+            ['Package Wizard',           'https://github.com/package-wizard'],
+            ['Laraberries',              'https://github.com/Laraberries'],
         ])->mapInto(Organization::class);
     }
 
@@ -44,6 +44,7 @@ class About extends Me
         ])->mapInto(Project::class);
     }
 
+    /** @return array<class-string> */
     public function getDailyKnowledge(): array
     {
         return [
@@ -80,6 +81,7 @@ class About extends Me
         ])->mapInto(Contact::class);
     }
 
+    /** @return array<string> */
     public function getSponsor(): array
     {
         return [
