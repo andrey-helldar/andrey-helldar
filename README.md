@@ -1,4 +1,4 @@
-![our flag - white snow and blue river](https://user-images.githubusercontent.com/10347617/207400353-fb9cf278-6524-430e-a028-11f2b21dba19.png)
+![peace](https://user-images.githubusercontent.com/10347617/183268386-c25ec9ae-6af9-4855-97fb-7ef29f54015d.png)
 
 
 ```php
@@ -89,11 +89,6 @@ class About extends Me
             'https://yoomoney.ru/to/410012608840929',
             'https://boosty.to/dragon-code',
         ];
-    }
-
-    public function label(): string
-    {
-        return 'White snow and blue river';
     }
 }
 ```
