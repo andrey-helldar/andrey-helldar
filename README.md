@@ -29,7 +29,7 @@ class About extends Me
     public function getTheBestProjects(): Collection
     {
         return collect([
-            ['Laravel Migration Actions', 'https://github.com/TheDragonCode/laravel-migration-actions'],
+            ['Laravel Actions',           'https://github.com/TheDragonCode/laravel-actions'],
             ['Laravel Migrate DB',        'https://github.com/TheDragonCode/migrate-db'],
             ['Laravel Lang Publisher',    'https://github.com/Laravel-Lang/publisher'],
             ['Laravel Pretty Routes',     'https://github.com/TheDragonCode/pretty-routes'],
