@@ -40,25 +40,15 @@ class About extends Me
             ['Laravel Cache',            'https://github.com/TheDragonCode/laravel-cache'],
             ['Simple DTO',               'https://github.com/TheDragonCode/simple-data-transfer-object'],
             ['Which Color',              'https://github.com/TheDragonCode/which-color'],
-            // ...
         ])->mapInto(Project::class);
     }
 
-    /** @return array<class-string> */
+    /** @return array<string> */
     public function getDailyKnowledge(): array
     {
         return [
-            Laravel::class,
-            Php::class,
-            Docker::class,
-            MySQL::class,
-            Redis::class,
-            ElasticSearch::class,
-            RestfulApi::class,
-            VueJs::class,
-            Git::class,
-            Jira::class,
-            GitLab::class,
+            'laravel', 'php', 'docker', 'mysql', 'redis',
+            'elasticsearch', 'vuejs', 'git', 'jira', 'gitlab'
         ];
     }
 
