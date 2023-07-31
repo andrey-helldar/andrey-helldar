@@ -17,8 +17,8 @@ class About extends Me
         return collect([
             ['The Dragon Code',  'https://github.com/TheDragonCode'],
             ['Laravel Lang',     'https://github.com/Laravel-Lang'],
+            ['Laravel Cashbox',  'https://github.com/cashbox-laravel'],
             ['Volunteers CRM',   'https://github.com/volunteers-crm'],
-            ['Cashier Provider', 'https://github.com/cashier-provider'],
             ['Package Wizard',   'https://github.com/package-wizard'],
             ['Laraberries',      'https://github.com/Laraberries'],
         ])->mapInto(Organization::class);
@@ -31,9 +31,9 @@ class About extends Me
             ['Laravel Actions',          'https://github.com/TheDragonCode/laravel-actions'],
             ['Laravel Migrate DB',       'https://github.com/TheDragonCode/migrate-db'],
             ['Laravel Lang Publisher',   'https://github.com/Laravel-Lang/publisher'],
+            ['Laravel Cashbox',          'https://github.com/cashbox-laravel'],
             ['Laravel Pretty Routes',    'https://github.com/TheDragonCode/pretty-routes'],
             ['Laravel Env Sync',         'https://github.com/TheDragonCode/env-sync-laravel'],
-            ['Laravel Cashier Provider', 'https://github.com/cashier-provider'],
             ['Laravel HTTP Logger',      'https://github.com/TheDragonCode/laravel-http-logger'],
             ['Laravel JSON Response',    'https://github.com/TheDragonCode/laravel-json-response'],
             ['Laravel Cache',            'https://github.com/TheDragonCode/laravel-cache'],
