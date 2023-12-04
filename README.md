@@ -57,7 +57,6 @@ class About extends Me
         return collect([
             'Website'    => 'https://dragon-code.pro',
             'HabrCareer' => 'https://career.habr.com/helldar',
-            'LinkedIn'   => 'https://www.linkedin.com/in/helldar',
         ])->mapInto(Profile::class);
     }
 
