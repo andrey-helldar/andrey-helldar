@@ -73,7 +73,6 @@ class About extends Me
     public function getSponsor(): array
     {
         return [
-            'https://github.com/sponsors/TheDragonCode',
             'https://yoomoney.ru/to/410012608840929',
             'https://boosty.to/dragon-code',
             'https://www.donationalerts.com/r/dragon_code',
