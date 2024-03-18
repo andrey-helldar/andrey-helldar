@@ -29,6 +29,7 @@ class About extends Me
     {
         return collect([
             ['Actions',                'https://github.com/TheDragonCode/laravel-actions'],
+            ['Database Data Dumper',   'https://github.com/TheDragonCode/laravel-data-dumper'],
             ['Migrate DB',             'https://github.com/TheDragonCode/migrate-db'],
             ['Laravel Lang Publisher', 'https://github.com/Laravel-Lang/publisher'],
             ['Cashbox for Laravel',    'https://github.com/cashbox-laravel'],
