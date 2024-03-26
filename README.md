@@ -8,6 +8,14 @@ namespace AndreyHelldar;
 /*
  * Always write code like it’s going to be supported by an unstable,
  * violent psychopath who knows where you live.
+ *
+ * Working on open-source is my great joy in life and I want to be able
+ * to do that as much and as long as I possible can.
+ * I hope you like what I work on and that some of it is useful to you.
+ * Thanks for visiting!
+ *
+ * If you found anything that I built useful for you or your company,
+ * consider sponsoring me ❤️
  */
 class About extends Me
 {
