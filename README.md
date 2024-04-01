@@ -28,6 +28,7 @@ Among all my projects, I highlight the following:
 - [Simple DTO](https://github.com/TheDragonCode/simple-data-transfer-object)
 - [Smart Cache](https://github.com/TheDragonCode/laravel-cache)
 - [Which Color](https://github.com/TheDragonCode/which-color)
+- [GitHub Notifications](https://github.com/TheDragonCode/github-notifications)
 
 But this isn't a complete list of really cool projects 😎
 
