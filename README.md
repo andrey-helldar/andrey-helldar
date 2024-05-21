@@ -16,7 +16,7 @@ Projects of which I'm the creator:
 
 Among all my projects, I highlight the following:
 
-- [Actions](https://github.com/TheDragonCode/laravel-actions)
+- [Deploy Operations](https://github.com/TheDragonCode/laravel-deploy-operations)
 - [Cashbox for Laravel](https://github.com/cashbox-laravel)
 - [Database Data Dumper](https://github.com/TheDragonCode/laravel-data-dumper)
 - [Env Sync](https://github.com/TheDragonCode/env-sync-laravel)
