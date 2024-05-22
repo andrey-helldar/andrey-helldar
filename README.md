@@ -19,16 +19,16 @@ Among all my projects, I highlight the following:
 - [Deploy Operations](https://github.com/TheDragonCode/laravel-deploy-operations)
 - [Cashbox for Laravel](https://github.com/cashbox-laravel)
 - [Database Data Dumper](https://github.com/TheDragonCode/laravel-data-dumper)
+- [Lang Publisher](https://github.com/Laravel-Lang/publisher)
+- [Smart Cache](https://github.com/TheDragonCode/laravel-cache)
+- [GitHub Notifications](https://github.com/TheDragonCode/github-notifications)
 - [Env Sync](https://github.com/TheDragonCode/env-sync-laravel)
 - [HTTP Logger](https://github.com/TheDragonCode/laravel-http-logger)
 - [JSON Response](https://github.com/TheDragonCode/laravel-json-response)
-- [Lang Publisher](https://github.com/Laravel-Lang/publisher)
 - [Migrate DB](https://github.com/TheDragonCode/migrate-db)
 - [Pretty Routes](https://github.com/TheDragonCode/pretty-routes)
 - [Simple DTO](https://github.com/TheDragonCode/simple-data-transfer-object)
-- [Smart Cache](https://github.com/TheDragonCode/laravel-cache)
 - [Which Color](https://github.com/TheDragonCode/which-color)
-- [GitHub Notifications](https://github.com/TheDragonCode/github-notifications)
 
 But this isn't a complete list of really cool projects 😎
 
