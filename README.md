@@ -9,10 +9,10 @@ I also build, maintain and release all packages.
 
 Projects of which I'm the creator:
 
-- [The Dragon Code](https://github.com/TheDragonCode) is a core project containing many useful software products for developers.
-- [Cashbox for Laravel](https://github.com/cashbox-laravel) provides an expressive and user-friendly interface for managing billing and payment verification services.
-- [Volunteers CRM](https://github.com/volunteers-crm) allows volunteers to quickly organize the management of their work and simplifies the management of tasks.
-- [Package Wizard](https://github.com/package-wizard) allows you to quickly and easily start developing packages and applications without the hassle of initial customization.
+- 🐲 [The Dragon Code](https://github.com/TheDragonCode) is a core project containing many useful software products for developers.
+- 💵 [Cashbox for Laravel](https://github.com/cashbox-laravel) provides an expressive and user-friendly interface for managing billing and payment verification services.
+- 🗺️ [Volunteers CRM](https://github.com/volunteers-crm) allows volunteers to quickly organize the management of their work and simplifies the management of tasks.
+- 🪄 [Package Wizard](https://github.com/package-wizard) allows you to quickly and easily start developing packages and applications without the hassle of initial customization.
 
 Among all my projects, I highlight the following:
 
