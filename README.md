@@ -1,5 +1,3 @@
-![Untitled-1](https://github.com/andrey-helldar/andrey-helldar/assets/10347617/a8cb924d-eb2a-4ce9-8925-469acd74a090)
-
 **Hi there** 👋
 
 I'm [Andrey Helldar](https://dragon-code.pro), open-source maintainer and creator of
