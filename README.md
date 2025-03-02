@@ -34,6 +34,6 @@ But this isn't a complete list of really cool projects 😎
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
 
 If you found anything that I built useful for you or your company, consider sponsoring me on
-[Boosty](https://boosty.to/dragon-code), [DonationAlerts](https://www.donationalerts.com/r/dragon_code) and/or [YooMoney](https://yoomoney.ru/to/410012608840929) ❤️
+[Boosty](https://boosty.to/dragon-code) and [YooMoney](https://yoomoney.ru/to/410012608840929) ❤️
 
 ![](https://hit.yhype.me/github/profile?user_id=10347617)
