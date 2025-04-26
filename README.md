@@ -1,7 +1,8 @@
 **Hi there** 👋
 
 I'm [Andrey Helldar](https://dragon-code.pro), open-source maintainer and creator of
-[Dragon Code](https://github.com/TheDragonCode), [Kvede Bot](https://kvede.com) for Telegram and [Cashbox for Laravel](https://github.com/cashbox-laravel).
+[Dragon Code](https://github.com/TheDragonCode), [Kvede Bot](https://kvede.com) for Telegram, [Package Wizard](https://github.com/package-wizard)
+and [Cashbox for Laravel](https://github.com/cashbox-laravel).
 I'm also the main developer on the [Laravel-Lang](https://github.com/Laravel-Lang) project.
 I also build, maintain and release all packages.
 
