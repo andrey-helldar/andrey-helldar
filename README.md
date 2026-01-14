@@ -27,6 +27,7 @@ Among all my projects, I highlight the following:
 - [Migrate DB](https://github.com/TheDragonCode/migrate-db)
 - [Pretty Routes](https://github.com/TheDragonCode/pretty-routes)
 - [Which Color](https://github.com/TheDragonCode/which-color)
+- [GitHub Preview Generator](https://github.com/TheDragonCode/github-preview-updater)
 
 But this isn't a complete list of really cool projects 😎
 
@@ -34,5 +35,3 @@ Working on open-source is my great joy in life and I want to be able to do that 
 
 If you found anything that I built useful for you or your company, consider sponsoring me on
 [Boosty](https://boosty.to/dragon-code) and [YooMoney](https://yoomoney.ru/to/410012608840929) ❤️
-
-![](https://hit.yhype.me/github/profile?user_id=10347617)
