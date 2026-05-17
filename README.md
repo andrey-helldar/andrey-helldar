@@ -4,8 +4,6 @@ I'm an open-source maintainer focused on the Laravel and PHP ecosystem. I create
 and maintain developer tools, localization packages, automation utilities, and
 services that make day-to-day development smoother.
 
-> It's never too late to get better.
-
 I build and maintain projects across [The Dragon Code](https://github.com/TheDragonCode),
 [Laravel Lang](https://github.com/Laravel-Lang), [Package Wizard](https://github.com/package-wizard),
 [Cashbox for Laravel](https://github.com/cashbox-laravel), and [Kvede Bot](https://kvede.com).
