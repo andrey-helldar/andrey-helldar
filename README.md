@@ -20,6 +20,7 @@ I build and maintain projects across [The Dragon Code](https://github.com/TheDra
 
 - 🍀 [Kvede Bot](https://kvede.com) - Telegram chat management with analytics capabilities.
 - 🐉 [The Dragon Code](https://github.com/TheDragonCode) - a collection of developer-focused packages and services.
+- 🧙‍♂️ [The Dragon Skills](https://github.com/TheDragonSkills) - a collection of skills for AI agents.
 - 🪄 [Package Wizard](https://github.com/package-wizard) - a faster way to start new packages and applications without repetitive setup.
 - 💵 [Cashbox for Laravel](https://github.com/cashbox-laravel) - billing and payment verification tools for Laravel applications.
 - 🗺️ [Volunteers CRM](https://github.com/volunteers-crm) - tools that help volunteer teams organize work and manage tasks.
