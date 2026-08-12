@@ -5,7 +5,7 @@ I focus on localization, deployment automation, databases, caching,
 telemetry, and release workflows.
 
 I lead [Laravel Lang](https://github.com/Laravel-Lang) and maintain projects
-across [The Dragon Code](https://github.com/TheDragonCode), [The Dragon Skills](https://github.com/TheDragonSkills) and [Kvede Bot](https://kvede.com).
+across [The Dragon Code](https://github.com/TheDragonCode) and [The Dragon Skills](https://github.com/TheDragonSkills).
 Laravel Lang provides translations for
 [128 languages](https://github.com/Laravel-Lang/lang).
 
